@@ -1,0 +1,74 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: url(https://cdn.pixabay.com/photo/2020/09/15/15/56/background-5574027_960_720.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+}
+.navbar ul{
+	list-style: none;
+	background: #B7C2F0;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+.navbar li{
+	display: inline-block;
+}
+.navbar a{
+	text-decoration: none;
+	color: #927171;
+	width: 100px;
+	display: block;
+	padding: 25px 20px;
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
+.navbar a:hover{
+	background: #D4E6F1;
+}
+p
+{
+	color: #DC7633;
+	font-family: monospace;
+	font-size: 21px;
+	font-style: normal;
+}
+h1
+{
+	color: lightsalmon;
+	text-align: center;
+	font-size: 40px;
+	font-family: cursive;
+}
+h2
+{
+	font-family: monospace;
+	color: #85929E;
+	font-size: 20px;
+
+}
+h3
+{
+	font-family: cursive;
+	font-style: italic;
+	color: darkolivegreen;
+	padding: 60px 90px;
+}
+h4
+{
+	font-family: monospace;
+	font-style: oblique;
+	color: saddlebrown;
+	padding: 10px 390px;
+	font-size: 18px;
+}
+h5
+{
+	color: lightsteelblue;
+	font-family: cursive;
+	font-size: 23px;
+	font-style: normal;
